@@ -50,7 +50,7 @@
     @yield('forgotPassword')
     @yield('SignIn')
     @yield('Home')
-    @yield('Hooo')
+    @yield('Helos')
   </div>
 </body>
 </html>
