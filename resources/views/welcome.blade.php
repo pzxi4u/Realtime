@@ -50,7 +50,7 @@
     @yield('forgotPassword')
     @yield('SignIn')
     @yield('Home')
-    yield
+    djgo q
   </div>
 </body>
 </html>
